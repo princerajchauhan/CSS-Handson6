@@ -150,6 +150,9 @@ button:hover{
     }
 }
 
+
+/* ******** Tablet View *************** */
+
 @media screen and (max-width: 1000px) {
     
     header{
@@ -182,6 +185,8 @@ button:hover{
         background-position: center;
     }
 }
+
+/* ******** Mobile View *************** */
 
 @media screen and (max-width:600px){
     
