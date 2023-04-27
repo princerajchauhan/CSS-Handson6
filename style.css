@@ -165,6 +165,9 @@ button:hover{
         column-gap: 0;
         align-items: flex-start;
     }
+    .left-container>p{
+        font-size: 17px;
+    }
     .left-container>h1{
         font-size: 30px;
     }
@@ -200,5 +203,8 @@ button:hover{
     }
     .right-container{
         grid-template-columns: 75%;
+    }
+    .left-container>p{
+        font-size: 15px;
     }
 }
