@@ -198,4 +198,7 @@ button:hover{
     .nav-icon{
         padding-left: 0;
     }
+    .right-container{
+        grid-template-columns: 75%;
+    }
 }
